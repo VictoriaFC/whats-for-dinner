@@ -29,7 +29,7 @@ https://www.loom.com/share/17f3f0136f594637b5d69f9c81216a3f
 
 ## Deployed Page
 ---
-* [What's For Dinner?] https://github.com/VictoriaFC/whats-for-dinner.git
+* https://github.com/VictoriaFC/whats-for-dinner.git
 
 ## What I Learned / Takeaways
 * It was fun to get more exposure to writing HTML, CSS and Javascript at the same time! With less help/instructions up front.
