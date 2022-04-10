@@ -55,7 +55,6 @@ var dishKey = {
   desserts: desserts
 }
 
-//querySelectors
 var letsCookButton = document.querySelector(".lets-cook-button")
 var addRecipeButton = document.querySelector(".add-recipe-button")
 var clearButton = document.querySelector(".clear-button")
@@ -65,12 +64,11 @@ var crockpotBox = document.querySelector("#crockpot-box")
 var dishResultBox = document.querySelector("#dish-result-box")
 
 
-// Event Listeners
 letsCookButton.addEventListener('click', populateMealOutput)
 clearButton.addEventListener('click', clearMealSuggestion)
 addRecipeButton.addEventListener('click', addRecipe)
 
-// Functions & Event Handlers
+
 function getRandomIndex(array) {
   return Math.floor(Math.random() * array.length);
 }
